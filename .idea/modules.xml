@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/restaurants.API.iml" filepath="$PROJECT_DIR$/.idea/restaurants.API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NodeJsSample.iml" filepath="$PROJECT_DIR$/.idea/NodeJsSample.iml" />
     </modules>
   </component>
 </project>
