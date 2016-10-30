@@ -1,6 +1,7 @@
 /**
  * Created by Dave K on 10/30/2016.
  */
+/*
 var util = require('util');
 
 var Db = require('mongodb').Db,
@@ -21,7 +22,10 @@ db.open(function(err, db) {
     }
 });
 
+
 exports.create = function(req, res){
+
     restaurants.create({
     })}
-    
+*/
+

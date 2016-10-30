@@ -26,7 +26,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', routes);
 app.get('/restaurants', restaurants.findAll);
 app.get('/restaurants/:id', restaurants.findById);
-app.get('/wines', restaurants.create);  // <<<not sure this is how to do this..
+//app.get('/wines', restaurants.create);  // <<<not sure this is how to do this..
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
